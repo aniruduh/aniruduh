@@ -7,7 +7,8 @@
 
 🤝 Connect to explore and solve problems that make an impact!🍀
 
-![](https://komarev.com/ghpvc/?aniruduh=your-github-aniruduh)
+![](https://komarev.com/ghpvc/?username=aniruduh)
+
 ### 📈 GitHub Stats:
 
 <p align="center">
