@@ -42,7 +42,18 @@ Plotly 	![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-th
 
 ## Coding Profile:
 
-Connect with me here:
+<p align="center">
+  <a href="https://codeforces.com/profile/anni_" target="_blank">
+    <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=anni_" alt="Codeforces Profile" style="max-width: 100%; height: "300";" width="200" />
+  </a>
+  <a href="https://leetcode.com/u/anni---/" target="_blank">
+    <img align="center" src="https://leetcard.jacoblin.cool/anni---?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Profile" style="max-width: 100%; height: "400";" width="200" />
+  </a>
+</p>
+
+## Social:
+
+👥 Connect with me here:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/anirudh-gupta-2010b11a1)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/aniruduh)
