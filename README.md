@@ -15,9 +15,8 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aniruduh&theme=tokyonight&border_radius=5" alt="GitHub Streak" /></a>
 </p>
 
-<p align="center">
-<a  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniruduh&show_icons=true&theme=tokyonight) a>
-<p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniruduh&show_icons=true&theme=tokyonight)
+
 
 ## Tech Stack:
 
