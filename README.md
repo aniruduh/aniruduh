@@ -11,10 +11,7 @@
 
 ## 📈 GitHub Stats:
 
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aniruduh&theme=tokyonight&border_radius=5" alt="GitHub Streak" /></a>
-</p>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aniruduh&theme=tokyonight)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniruduh&show_icons=true&theme=tokyonight)
 
 
