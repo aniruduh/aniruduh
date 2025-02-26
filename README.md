@@ -40,17 +40,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
-## Coding Profile:
-
-<p align="center">
-  <a href="https://codeforces.com/profile/anni_" target="_blank">
-    <img align="center" src="https://codeforces-readme-stats.vercel.app/api/card?username=anni_" alt="Codeforces Profile" style="max-width: 100%; height: "300";" width="200" />
-  </a>
-  <a href="https://leetcode.com/u/anni---/" target="_blank">
-    <img align="center" src="https://leetcard.jacoblin.cool/anni---?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Profile" style="max-width: 100%; height: "400";" width="200" />
-  </a>
-</p>
-
 ## Social:
 
 👥 Connect with me here:
