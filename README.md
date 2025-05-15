@@ -9,15 +9,6 @@
 
 ![](https://komarev.com/ghpvc/?username=aniruduh)
 
-## 📈 GitHub Stats:
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=aniruduh&theme=tokyonight&card_width=450" alt="GitHub Streak"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=aniruduh&amp;show_icons=true&amp;theme=tokyonight&card_width=450" alt="Anurag&#39;s GitHub stats"></td>
-  </tr>
-</table>
-
 
 ## Tech Stack:
 
